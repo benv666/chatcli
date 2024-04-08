@@ -15,6 +15,8 @@ $ export AWS_PROFILE=bedrock
 $ ./chat
 ```
 
+<img alt="Chat example made with VHS" src="./examples/chat.gif" width="600" />
+
 The `--model` flag can be used to specify a different model (default is `anthropic.claude-v2`, try `anthropic.claude-3-sonnet-20240229-v1:0` for more expensive chat, see ):
 
 ```
